@@ -1,10 +1,9 @@
 # Raporty - pracownia fizyczna II
-Repozytorium zawiera raporty wykonane w trakcie dwóch semestrów zajęć  z pracowni fizycznej II.
+**Wydział Fizyki, Astronomii i Informatyki Stosowanej**
 
-```
-Wydział Fizyki, Astronomii i Informatyki Stosowanej
-Uniwersytet Mikołaja Kopernika w Toruniu
-```
+**Uniwersytet Mikołaja Kopernika w Toruniu**
+
+Repozytorium zawiera raporty wykonane w trakcie dwóch semestrów zajęć  z pracowni fizycznej II.
 
 # Spis tematów
 1. Badanie struktury nadsubtelnej linii atomowych - zjawisko Zeemana
